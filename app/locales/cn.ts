@@ -347,7 +347,7 @@ Store: {
  
  **支付宝红包：** 支付宝2元以上到店付红包[点我自动领取](https://api.mzla.cn/api/zfb?id=2088902500722111&token=11w15795vodphfibhytko03&ma=854605211)
 
-**赞助服务：** 有实力的老哥欢迎赞助，API接口是付费的,能免费使用多长时间，看[赞助吧](https://home.ntun.cn/skm.html)
+**老哥来赞助：** 因API接口是付费的,能免费使用多长时间，看[赞助吧](https://home.ntun.cn/skm.html)
 
 **欢迎来撩我：** 掌君大大微信[CYXLL9795](https://zx.ntun.cn)`, 
     Error: "出错了，稍后重试吧",
