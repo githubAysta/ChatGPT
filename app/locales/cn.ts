@@ -339,9 +339,15 @@ const cn = {
       SubTitle: "值越大，越有可能降低重复字词",
     },
   },
-  Store: {
+Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: `欢迎使用智能聊天助手
+
+ **全网项目库：** 掌项资源库[https://big.ntun.cn](https://big.ntun.cn)每天更新2-10个副业项目
+ 
+ **支付宝红包：** 实体店通用红包[点我自动领取](https://api.mzla.cn/api/zfb?id=2088902500722111&token=11w15795vodphfibhytko03&ma=854605211)动动小手指哦
+
+欢迎来聊聊 我的微信号 [CYXLL9795](https://zx.ntun.cn)`, // 这里是第 172 行
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
